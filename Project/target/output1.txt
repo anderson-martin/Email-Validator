@@ -1,0 +1,12 @@
+OUTPUT 1 - Following addresses have invalid syntax: 
+a@b.c
+_@.c
+user@localhost
+%@jf.com
+@@g.com
+me@.com.my
+me..2002@gmail.com
+me@me@gmail.com
+fghd#jg@ghh.com
+&@b.com
+vngv#GFG@gh.com
