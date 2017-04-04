@@ -1,5 +1,0 @@
-OUTPUT 3 - Following addresses have valid syntax and domain name: 
-iio@yahoo.com
-m@gmail.com
-tt@123.co.uk
-max@gmail.com
