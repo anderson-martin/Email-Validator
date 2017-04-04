@@ -1,0 +1,5 @@
+OUTPUT 2 - Following addresses have valid syntax but invalid domain name: 
+me@123.com
+y@h.cc
+f@h.io
+t1@tuv.coo
